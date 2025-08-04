@@ -1,3 +1,9 @@
+## 2025.08.04
+- merged HREI by @sshogrin
+
+## 2025.08.02
+- merged Piou Icons by @TenshiRaitoEso
+
 ## 2025.07.30
 - unify API
 
